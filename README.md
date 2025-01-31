@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @dhiL5had
-- 👀 I’m interested in learning web development using multiple frameworks ...
-- 🌱 I’m currently learning React.js with Nest.js by creating small projects with the help of tutorials...
-- 💞️ I’m looking to collaborate on open-source projects to be part of a team and for developing new skills...
-- 📫 Reach me via [linkedIn](https://www.linkedin.com/in/mohammad-dhilshad-32a3831b3)
+- 👋 Hi, I'm Dhilshad
+- 💻 Full-Stack Developer | Passionate about building modern, scalable, and user-centric web applications.
+- 🚀 Proficient in Angular, Node.js, React.js and Nest.js, with hands-on experience creating dynamic projects and solving real-world problems.
+- 🌱 Continuously expanding my skill set by exploring cutting-edge technologies and best practices in web development.
+- 🔗 Actively seeking to contribute to open-source projects and collaborate with teams to deliver impactful solutions.
+- 📫 Let's connect! Reach out to me on [linkedIn](https://www.linkedin.com/in/mhd-dhilshad).
